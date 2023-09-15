@@ -12,7 +12,7 @@ So let’s understand dataset.
 
 ## Dataset 
 
-The dataset we’re used here is Disaster tweet data. It contains 5 columns out of which we only concerned about “text” column that contains the tweet data and “target” column that show whether the given tweet is disaster or not. We need to perform some text preprocessing techniques tweet data for getting good results.
+The dataset we’re used here is Disaster tweet data(https://www.kaggle.com/competitions/nlp-getting-started/data). It contains 5 columns out of which we only concerned about “text” column that contains the tweet data and “target” column that show whether the given tweet is disaster or not. We need to perform some text preprocessing techniques tweet data for getting good results.
 
 ## What is NLP used for?
 Natural Language Processing is the driving force behind the following common applications:
